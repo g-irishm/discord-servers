@@ -11,7 +11,7 @@ Welcome to the Community Servers Repository! This repository is intended to shar
 
 We encourage you to contribute to this list and help us make it even better. Follow these steps to contribute:
 
-1. **Create a Branch**: Start by creating a new branch from the 'master' branch of this repository.
+1. **Create a Branch**: Start by creating a new branch from the 'main' branch of this repository.
 
 2. **Add a Server**: In your branch, add the details of the server that you want to include in the list. Please mention the server name and link.
 
